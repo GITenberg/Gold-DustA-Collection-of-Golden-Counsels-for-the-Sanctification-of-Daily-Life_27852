@@ -28,6 +28,8 @@ creator:
 description: '"This little book is a translation from a collection of devotional thoughts
   published in France under the title of ''Paillettes d''or.'' It is necessarily a
   selection...."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27852#Gold-DustA-Collection-of-Golden-Counsels-for-the-Sanctification-of-Daily-Life
 gutenberg_issued: '2009-01-20'
 gutenberg_type: Text
 identifiers:
