@@ -1,0 +1,47 @@
+_repo: Gold-DustA-Collection-of-Golden-Counsels-for-the-Sanctification-of-Daily-Life_27852
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: E. L. E. B.
+    gutenberg_agent_id: '32962'
+    url: http://www.gutenberg.org/2009/agents/32962
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sylvain, Adrien
+    birthdate: 1826
+    deathdate: 1914
+    gutenberg_agent_id: '32967'
+    url: http://www.gutenberg.org/2009/agents/32967
+  editor:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, C. M. (Charlotte Mary)
+    - Yonge, Charlotte Mary
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: '"This little book is a translation from a collection of devotional thoughts
+  published in France under the title of ''Paillettes d''or.'' It is necessarily a
+  selection...."'
+gutenberg_issued: '2009-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27852'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Meditations'
+- !lcsh 'Devotional exercises'
+- !lcsh 'Devotional literature'
+- !lcc 'BV'
+title: 'Gold Dust
+
+  A Collection of Golden Counsels for the Sanctification of Daily Life'
+url: http://www.gutenberg.org/ebooks/27852
